@@ -6,7 +6,7 @@
 //
 
 import UIKit
-class ZPPView: UIView {
+public class ZPPView: UIView {
     override init(frame: CGRect) {
         super.init(frame: frame)
         self.backgroundColor = UIColor.blue
